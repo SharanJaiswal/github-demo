@@ -4,3 +4,6 @@ ssup!?
 line 1 from normal merge.
 line 2 from normal merge.
 line 3 from normal merge.
+line 1 from ff
+line 2 from ff
+line 3 from ff
