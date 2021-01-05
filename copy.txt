@@ -2,3 +2,4 @@ hey there i am using whatsapp.
 ssup!?
 
 line 1 from normal merge.
+line 2 from normal merge.
