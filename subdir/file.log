@@ -1,1 +1,18 @@
-test file to see the working of the file .gitignore
+total 3.9M
+drwxr-xr-x 1 shara 197609    0 Dec 31 18:58 ./
+drwxr-xr-x 1 shara 197609    0 Dec 31 18:58 ../
+drwxr-xr-x 1 shara 197609    0 Dec 31 18:58 bin/
+drwxr-xr-x 1 shara 197609    0 Dec 31 18:58 cmd/
+drwxr-xr-x 1 shara 197609    0 Dec 31 18:58 dev/
+drwxr-xr-x 1 shara 197609    0 Dec 31 18:58 etc/
+-rwxr-xr-x 1 shara 197609 149K Dec 28 18:38 git-bash.exe*
+-rwxr-xr-x 1 shara 197609 149K Dec 28 18:38 git-cmd.exe*
+-rw-r--r-- 1 shara 197609  19K Dec 28 18:57 LICENSE.txt
+drwxr-xr-x 1 shara 197609    0 Dec 31 18:57 mingw64/
+dr-xr-xr-x 8 shara 197609    0 Jan  5 13:48 proc/
+-rw-r--r-- 1 shara 197609 191K Dec 28 18:57 ReleaseNotes.html
+drwxr-xr-x 1 shara 197609    0 Jan  5 13:48 tmp/
+-rw-r--r-- 1 shara 197609 1.2M Dec 31 18:58 unins001.dat
+-rwxr-xr-x 1 shara 197609 1.3M Dec 31 18:50 unins001.exe*
+-rw-r--r-- 1 shara 197609  23K Dec 31 18:58 unins001.msg
+drwxr-xr-x 1 shara 197609    0 Dec 31 18:58 usr/
