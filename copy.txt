@@ -15,3 +15,4 @@ line 2 from sqmr
 
 
 l 1 frm norsub
+l 2 frm norsub
