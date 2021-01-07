@@ -14,3 +14,5 @@ line 1 from sqmr
 line 2 from sqmr
 
 one extra commit for subsub branch rebasing with main
+l 1 frm norsub
+l 2 frm norsub
