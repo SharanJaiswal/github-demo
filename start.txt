@@ -1,2 +1,3 @@
 Test git quick start demo
 This text is to check the GIT CHECKOUT & GIT RESET command when it is in staging area.
+testing git push --force and git push --force-with-lease
